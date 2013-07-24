@@ -1,7 +1,7 @@
 # mike mommsen
 # july 2013
 # read in turnstile data from the MTA from crappy format to csv
-# to call enter in command line: python read_turnstile.py infile outfile
+# to call enter in command line: python turnstile.py infile outfile
 
 # import statements
 from collections import defaultdict
